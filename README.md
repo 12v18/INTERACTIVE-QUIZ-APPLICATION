@@ -90,17 +90,17 @@ TOOLS USED IN .HTML, .CSS AND .JS:
 
 <img width="446" alt="Image" src="https://github.com/user-attachments/assets/bd8829aa-1381-45ed-815a-9624dce69f0d" />
 
-                       ## IF  WRONG 
+IF  WRONG 
                               
-                               <img width="450" alt="Image" src="https://github.com/user-attachments/assets/ff3761a3-a43c-4cc4-a0b5-77ae174c0e08" />
+<img width="450" alt="Image" src="https://github.com/user-attachments/assets/ff3761a3-a43c-4cc4-a0b5-77ae174c0e08" />
 
-                       ## IF CORRECT
+IF CORRECT
 
-                              <img width="455" alt="Image" src="https://github.com/user-attachments/assets/ac7a2ee0-2710-4398-b451-092afeb65195" />
+<img width="455" alt="Image" src="https://github.com/user-attachments/assets/ac7a2ee0-2710-4398-b451-092afeb65195" />
 
-           ## AT THE END 
+AT THE END 
 
-                    <img width="448" alt="Image" src="https://github.com/user-attachments/assets/fd7a5169-4ae3-44dc-8e81-d86e703c3d7a" />
+<img width="448" alt="Image" src="https://github.com/user-attachments/assets/fd7a5169-4ae3-44dc-8e81-d86e703c3d7a" />
 
                     
 # MOTIVATION:
