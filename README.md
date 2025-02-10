@@ -100,6 +100,8 @@ TOOLS USED IN .HTML, .CSS AND .JS:
 
            ## AT THE END 
 
+                    <img width="448" alt="Image" src="https://github.com/user-attachments/assets/fd7a5169-4ae3-44dc-8e81-d86e703c3d7a" />
+
                     
 # MOTIVATION:
 
