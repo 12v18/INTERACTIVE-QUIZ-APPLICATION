@@ -90,6 +90,8 @@ TOOLS USED IN .HTML, .CSS AND .JS:
 
 <img width="446" alt="Image" src="https://github.com/user-attachments/assets/bd8829aa-1381-45ed-815a-9624dce69f0d" />
 
+After selecting an answer in the quiz app, if the answer is correct, the app will display "Correct Answer!" on the screen. If the selected answer is wrong, it will show "Incorrect Answer!" and also provide the correct answer for reference. At the end of the quiz, the app will display the user's high score, allowing them to see how well they performed overall. This approach ensures users get immediate feedback on their responses and can track their progress throughout the quiz.
+
 IF  WRONG 
                               
 <img width="450" alt="Image" src="https://github.com/user-attachments/assets/ff3761a3-a43c-4cc4-a0b5-77ae174c0e08" />
