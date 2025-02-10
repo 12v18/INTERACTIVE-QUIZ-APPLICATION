@@ -88,7 +88,10 @@ TOOLS USED IN .HTML, .CSS AND .JS:
 
 # OUTPUT SCREENSHOTS:
 
+<img width="446" alt="Image" src="https://github.com/user-attachments/assets/bd8829aa-1381-45ed-815a-9624dce69f0d" />
 
+                       ## IF  WRONG 
+                              
 
 # MOTIVATION:
 
