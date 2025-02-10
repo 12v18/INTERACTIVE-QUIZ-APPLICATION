@@ -92,7 +92,11 @@ TOOLS USED IN .HTML, .CSS AND .JS:
 
                        ## IF  WRONG 
                               
+                               <img width="450" alt="Image" src="https://github.com/user-attachments/assets/ff3761a3-a43c-4cc4-a0b5-77ae174c0e08" />
 
+                       ## IF CORRECT
+
+                              
 # MOTIVATION:
 
 Creating a quiz app is an exciting project because it combines technical skills with creativity. It provides a practical way to challenge users, make learning fun, and engage with a wide audience. The satisfaction of seeing people enjoy and learn from your app can be incredibly motivating. Plus, working with React Native and Expo offers a great opportunity to enhance your development skills and build something that can be easily deployed across multiple platforms. Keep pushing forward—your hard work and dedication will pay off in the joy and knowledge you bring to others!
